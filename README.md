@@ -60,9 +60,4 @@ Ce projet a pour objectif de :
 
 * Ilissa Ingrachen
 
----
 
-##  Remarque
-
-Ce projet constitue une base de travail réalisée dans le cadre d’un apprentissage de la programmation orientée objet en Java.
----
