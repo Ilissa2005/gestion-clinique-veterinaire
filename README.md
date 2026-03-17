@@ -44,7 +44,7 @@ Un script SQL est fourni pour la création des tables nécessaires à la gestion
 
 ---
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 * Java
 * Programmation Orientée Objet (POO)
@@ -52,7 +52,7 @@ Un script SQL est fourni pour la création des tables nécessaires à la gestion
 
 ---
 
-## 🎯 Objectif pédagogique
+##  Objectif pédagogique
 
 Ce projet a été réalisé dans le cadre d’un travail pratique afin de :
 
@@ -62,7 +62,7 @@ Ce projet a été réalisé dans le cadre d’un travail pratique afin de :
 
 ---
 
-## 👤 Auteur
+##  Auteur
 
 * Ilissa Ingrachen
 
