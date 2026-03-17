@@ -1,19 +1,19 @@
-#  Gestion de Clinique Vétérinaire
+#  SPA Val Minou - Gestion de Refuge Animalier
 
 ##  Description
 
-Ce projet Java permet de modéliser une clinique vétérinaire à travers plusieurs classes représentant les différents éléments du système.
+Ce projet Java permet de modéliser le fonctionnement d’un refuge animalier nommé **SPA Val Minou**.
 
-Il a été réalisé dans le cadre d’un travail pratique afin de manipuler la programmation orientée objet (POO).
+Il simule la gestion des animaux, des familles d’accueil, des séjours et des interventions au sein du refuge, en utilisant les principes de la programmation orientée objet.
 
 ---
 
 ##  Structure du projet
 
-Le projet est organisé autour de plusieurs classes, notamment :
+Le projet est organisé autour de plusieurs classes représentant les entités principales du refuge :
 
-* `Animal`
-* `Famille`
+* `Animal` 
+* `Famille` 
 * `Placement`
 * `Sejour`
 * `Box`
@@ -22,41 +22,47 @@ Le projet est organisé autour de plusieurs classes, notamment :
 * `Creneau`
 * `TypeActivite`
 
-Chaque classe représente une entité du système et permet de structurer les informations liées à la gestion d’une clinique vétérinaire.
+Chaque classe permet de structurer les données et de représenter un élément du système.
 
 ---
 
-##  Fonctionnement
+##  Fonctionnalités
 
-Le programme permet de :
+Le projet permet de :
 
-* représenter les animaux pris en charge
-* gérer les familles d’accueil
-* organiser les séjours des animaux
-* suivre les interventions réalisées
-
-Le projet repose principalement sur la création et la manipulation d’objets en Java.
+* gérer les animaux présents dans le refuge
+* représenter les familles d’accueil
+* organiser les séjours des animaux dans les boxes
+* suivre les interventions réalisées par les bénévoles
+* structurer les informations à l’aide de classes Java
 
 ---
 
-##  Technologies utilisées
+##  Base de données
+
+Un script SQL est fourni pour la création des tables nécessaires à la gestion du système.
+
+---
+
+## 🛠️ Technologies utilisées
 
 * Java
 * Programmation Orientée Objet (POO)
+* SQL (script de création de tables)
 
 ---
 
-##  Objectif pédagogique
+## 🎯 Objectif pédagogique
 
-Ce projet a pour objectif de :
+Ce projet a été réalisé dans le cadre d’un travail pratique afin de :
 
-* comprendre la structuration d’un programme en classes
-* manipuler des objets et leurs attributs
-* modéliser un système réel de manière simple
+* comprendre la modélisation d’un système réel
+* manipuler des classes et objets en Java
+* organiser un projet structuré
 
 ---
 
-##  Auteur
+## 👤 Auteur
 
 * Ilissa Ingrachen
 
